@@ -1,6 +1,6 @@
 # Onyx Docker
 
-[![Build Status](https://travis-ci.org/OnyxProject/onyx-docker.svg?branch=master)](https://travis-ci.org/OnyxProject/onyx-docker)
+[![Build Status](https://travis-ci.org/OnyxAi/onyx-docker.svg?branch=master)](https://travis-ci.org/OnyxAi/onyx-docker)
 
 ## Install
 ### Get image from Docker hub
@@ -14,7 +14,7 @@ docker pull onyxai/onyx
 Git pull this repository.
 
 ```bash
-git clone https://github.com/OnyxProject/onyx-docker.git
+git clone https://github.com/OnyxAi/onyx-docker.git
 ```
 
 Build the docker image.

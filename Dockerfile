@@ -7,7 +7,6 @@ RUN git clone https://github.com/OnyxAi/onyx
 RUN bash onyx/install_debian_script.sh
 
 RUN bash onyx/setup.sh
-RUN cd onyx && yarn install && yarn build
 
 WORKDIR /onyx
 

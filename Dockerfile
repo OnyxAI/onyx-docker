@@ -1,4 +1,4 @@
-FROM python:3.7-slim-buster
+FROM debian
 LABEL Author Aituglo <contact@aituglo.com>
 
 RUN apt-get update && apt-get install -y git wget unzip cmake
